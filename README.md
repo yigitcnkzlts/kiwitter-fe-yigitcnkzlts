@@ -1,5 +1,3 @@
-/_ yigitcan _/
-
 # Kiwitter: A Simple Twitter Clone
 
 ## Kapsam
